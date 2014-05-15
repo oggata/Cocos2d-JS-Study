@@ -13,11 +13,8 @@ Githubで公開しています。
 
 目次
 -----------------
-[スクロールビューの使い方](/ScrollView)
-[(動作Sample)](http://oggata.github.io/Cocos2d-JS-Study/ScrollView/)
-
-[テーブルビューの使い方](/TableView)
-[(動作Sample)](http://oggata.github.io/Cocos2d-JS-Study/TableView/)
+-[スクロールビュー動作Sample](http://oggata.github.io/Cocos2d-JS-Study/ScrollView/)
+-[テーブルビュー動作Sample](http://oggata.github.io/Cocos2d-JS-Study/TableView/)
 
 参考文献
 -----------------
