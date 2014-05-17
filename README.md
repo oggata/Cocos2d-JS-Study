@@ -19,8 +19,13 @@ Githubで公開しています。
 [テーブルビューの使い方](/TableView)
 [(動作Sample)](http://oggata.github.io/Cocos2d-JS-Study/TableView/)
 
-[作成中のサンプルゲーム](https://github.com/oggata/dungeon)
+
+その他のサンプル
+-----------------
+[作成中のSampleゲーム](https://github.com/oggata/dungeon)
 [(動作Sample)](http://oggata.github.io/dungeon/)
+
+[Cocos2d-JS(Cocos2d-html5)をダウンロードして ３分でTwitterクライアントを作成する Qiita](http://qiita.com/oggata/items/8f2b3d2cc65291b25fe0)
 
 参考文献
 -----------------
