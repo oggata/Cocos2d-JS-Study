@@ -19,6 +19,9 @@ Githubで公開しています。
 [テーブルビューの使い方](/TableView)
 [(動作Sample)](http://oggata.github.io/Cocos2d-JS-Study/TableView/)
 
+[作成中のサンプルゲーム](https://github.com/oggata/dungeon)
+[(動作Sample)](http://oggata.github.io/dungeon/)
+
 参考文献
 -----------------
 - [Cocos2d-x](http://www.cocos2d-x.org/)
